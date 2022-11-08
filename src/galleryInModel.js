@@ -17,7 +17,7 @@ export function Model(props) {
 		<Html className="gallerWrapper" position={[0, 1, 0]} transform occlude>
 		<div>
 			<Chicago />
-		<div/>
+		</div>
 		</Html>
 	  </group>
 	)
